@@ -92,7 +92,7 @@ table {
 
 body {
  font-family: "Myriad Set Pro", Arial, Helvetica, sans-serif;
- overflow: hidden;
+ overflow-x: hidden;
 }
 
 a {
